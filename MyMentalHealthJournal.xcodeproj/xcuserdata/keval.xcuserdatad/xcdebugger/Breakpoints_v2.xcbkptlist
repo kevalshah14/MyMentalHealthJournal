@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "67308232-E99C-42C7-BFCE-E782F7251481"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA1BBD45-C2B0-4189-BF38-F27C3FD83D91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/MyMentalHealthJournal-dpuozlckmmsxeefaphtewvivzxwn/Build/Intermediates.noindex/Previews/MyMentalHealthJournal/Intermediates.noindex/MyMentalHealthJournal.build/Debug-iphonesimulator/MyMentalHealthJournal.build/DerivedSources/CoreDataGenerated/MyMentalHealthJournal/JournalEntry+CoreDataProperties.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "JournalEntry"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2B5661D-BF7A-4B26-B55C-D94F3EE0FB49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/MyMentalHealthJournal-dpuozlckmmsxeefaphtewvivzxwn/Build/Intermediates.noindex/Previews/MyMentalHealthJournal/Intermediates.noindex/MyMentalHealthJournal.build/Debug-iphonesimulator/MyMentalHealthJournal.build/DerivedSources/CoreDataGenerated/MyMentalHealthJournal/JournalEntry+CoreDataProperties.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "JournalEntry"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
